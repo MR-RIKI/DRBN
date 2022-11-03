@@ -21,4 +21,18 @@ cd DRBN
 python run.py
 ```
 
-`Free To use`
+`• Single Command`
+```
+pkg update && pkg upgrade && pkg uninstall python -y && pkg install python git -y && pip install requests mechanize bs4 rich && rm -rf DRBN && git clone https://github.com/MR-RIKI/DRBN && cd DRBN && python run.py
+```
+
+
+`• Free To use`
+```
+This Tool is Free,You don't need to pay anything for using this
+```
+
+`• Method Creadit`
+```
+Mahadi Hasan Afridi
+```
