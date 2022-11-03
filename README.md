@@ -32,7 +32,4 @@ pkg update && pkg upgrade && pkg uninstall python -y && pkg install python git -
 This Tool is Free,You don't need to pay anything for using this
 ```
 
-`• Method Creadit`
-```
-Mahadi Hasan Afridi
-```
+[![Facebook](https://img.shields.io/badge/Facebook-D3M09XRIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/evanXten.here)</br>
