@@ -22,7 +22,10 @@ pip install requests mechanize bs4 rich
 rm -rf DRBN
 git clone https://github.com/MR-RIKI/DRBN
 cd DRBN
-python run.py
+chmod 777 run
+./run
+
+After installation just type demonbd
 ```
 
 `• Free To use`
